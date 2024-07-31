@@ -86,9 +86,9 @@ public class RjsnifferPlugin implements FlutterPlugin, MethodCallHandler {
           }
 
         } else {
-          if (rootBeer.isRootedWithBusyBoxCheck()) {
-            detected = true;
-          }
+          // if (rootBeer.isRootedWithBusyBoxCheck()) {
+          //   detected = true;
+          // }
 
         }
 
